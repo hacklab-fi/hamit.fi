@@ -7,12 +7,10 @@ Tervetuloa keskustelemaan radioamatööriharrastuksesta uudelle pikaviestinkanav
 
 Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seuraavista viestimistä:
 
-
-* [Matrix](https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org) (Suositeltu tapa)
+* [Matrix](https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org) - Suositeltu tapa liittyä
 * [Telegram](https://t.me/joinchat/WnDCZpW80L4yNjU8)
 * [WhatsApp](https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7)
-
-IRC: #hamit.fi (IRCNet)
+* IRC: #hamit.fi (IRCNet)
 
 Muita viestimiä pystymme siltaamaan tarpeen mukaan.
 
