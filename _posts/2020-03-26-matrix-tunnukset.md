@@ -2,9 +2,10 @@
 layout: post
 title: Mistä Matrix-tunnukset?
 subtitle: Mistä saan tunnukset Matrixiin
-comments: False
+comments: false
+tags: [matrix]
 ---
-Matrix on täysin hajautettu verkko jossa voit hankkia tunnukset miltä tahansa palvelimelta ja silti 
+Matrix on täysin hajautettu verkko jossa voit hankkia tunnukset miltä tahansa palvelimelta ja silti
 osallistua keskusteluun muilla palvelimilla olevien kanssa.
 
 ## QSO Online
