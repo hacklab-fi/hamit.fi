@@ -14,6 +14,8 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 
 Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
 
+Kanava ei ole sidottu mihinkään tiettyyn kerhoon tai paikkakuntaan, vaan on tarkoitettu kaikkeen suomenkieliseen keskusteluun radioamatööritoiminnasta. Monilla radioamatöörikerhoilla on myös omat kanavansa, joita voit löytää [linkkilistauksesta](linkkeja).
+
 ## Keskustelun säännöt
 
 Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. Muistakin aiheista on lupa keskustella kohtuudella. Kunnioita muita ihmisiä ja keskustellessasi. Kiellettyä ovat erityisesti:
