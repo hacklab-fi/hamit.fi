@@ -18,6 +18,8 @@ Tee pr
 Pohjana on tähän alkuunsa nyt käytetty beatiful jekyllä templatea, alla tärkeimmät osat alkuperäisestä readmestä.
 
 
+Logo sourcattu täältä: https://commons.wikimedia.org/wiki/File:International_amateur_radio_symbol.svg
+
 
 # Thanks: Beautiful Jekyll
 
