@@ -12,7 +12,7 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 * [WhatsApp](https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7)
 * IRCNet: #hamit.fi
 
-Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
+Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
 
 Kanava ei ole sidottu mihinkään tiettyyn kerhoon tai paikkakuntaan, vaan on tarkoitettu kaikkeen suomenkieliseen keskusteluun radioamatööritoiminnasta. Monilla radioamatöörikerhoilla on myös omat kanavansa, joita voit löytää [linkkilistauksesta](linkkeja).
 
