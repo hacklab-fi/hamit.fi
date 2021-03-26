@@ -3,7 +3,7 @@ layout: home
 title: hamit.fi
 subtitle: Radioamatöörien pikaviestinkanava
 ---
-Tervetuloa keskustelemaan radioamatööriharrastuksesta uudelle pikaviestinkanavalle!
+Tervetuloa keskustelemaan radioamatööriharrastuksesta! Tarkoituksemme on luoda miellyttävä keskusteluympäristö, jossa voimme keskustella harrastuksesta monipuolisesti. Tervetuloa, vanhat ja uudet!
 
 Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seuraavista viestimistä:
 
@@ -12,9 +12,7 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 * [WhatsApp](https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7)
 * IRC: #hamit.fi (IRCNet)
 
-Muita viestimiä pystymme siltaamaan tarpeen mukaan.
-
-Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
+Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
 
 ## Keskustelun säännöt
 
