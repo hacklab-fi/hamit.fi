@@ -12,10 +12,18 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 
 [Telegram]()
 
-[WhatsApp]()
+[WhatsApp](https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7)
 
 IRC: #hamit.fi (IRCNet)
 
 Muita viestimiä pystymme siltaamaan tarpeen mukaan.
 
 Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
+
+## Keskustelun säännöt
+
+Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. Keskustelun ei tarvitse olla tiukasti yhdistykseen liittyvää. Kunnioita muita ihmisiä ja keskustellessasi. Kiellettyä ovat erityisesti:
+
+* Uhkaava käytös ja vihapuhe
+* Poliittinen yllytys eli agitaatio
+* Roskapostittaminen ja mainonta
