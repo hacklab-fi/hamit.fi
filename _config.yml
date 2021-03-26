@@ -15,8 +15,8 @@ author: hamit.fi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Tietoja: "tietoja"
-  Jotain muuta: "toinen-sivu"
+#  Tietoja: "tietoja"
+#  Jotain muuta: "toinen-sivu"
 
 # --- Logo --- #
 

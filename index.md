@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hamit.fi
+title: hamit.fi
 subtitle: Radioamatöörien pikaviestinkanava
 ---
 Tervetuloa keskustelemaan radioamatööriharrastuksesta uudelle pikaviestinkanavalle!
