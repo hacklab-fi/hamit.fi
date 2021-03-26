@@ -22,7 +22,7 @@ Siltaustekniikan tarjoaa suomen hacklabien kattojärjestö [hacklab.fi](https://
 
 ## Keskustelun säännöt
 
-Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. Keskustelun ei tarvitse olla tiukasti yhdistykseen liittyvää. Kunnioita muita ihmisiä ja keskustellessasi. Kiellettyä ovat erityisesti:
+Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. Muistakin aiheista on lupa keskustella kohtuudella. Kunnioita muita ihmisiä ja keskustellessasi. Kiellettyä ovat erityisesti:
 
 * Uhkaava käytös ja vihapuhe
 * Poliittinen yllytys eli agitaatio
