@@ -12,7 +12,7 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 * [WhatsApp]
 * IRCNet: #hamit.fi
 
-Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
+Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [Hacklab ry](https://hacklab.fi/).
 
 Kanava ei ole sidottu mihinkään tiettyyn kerhoon tai paikkakuntaan, vaan on tarkoitettu kaikkeen suomenkieliseen keskusteluun radioamatööritoiminnasta. Monilla radioamatöörikerhoilla on myös omat kanavansa, joita voit löytää [linkkilistauksesta](linkkeja).
 
@@ -26,7 +26,7 @@ Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. 
 
 ## Vinkkejä
 
-[Matrix] kanavalla voit vaihtaa nimesi callsigniksi komennolla `/myroomnick OHXABC`
+[Matrix]ia käyttäessäsi voit vaihtaa kanavalla näkyvän nimimerkkisi kutsumerkkiäsi vastaavaksi komennolla `/myroomnick OHXABC`
 
 ## Moderointi
 
