@@ -20,7 +20,7 @@ Kanava ei ole sidottu mihinkään tiettyyn kerhoon tai paikkakuntaan, vaan on ta
 
 Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. Muistakin aiheista on lupa keskustella kohtuudella. Kunnioita muita ihmisiä ja keskustellessasi. Kiellettyä ovat erityisesti:
 
-* Uhkaava käytös ja vihapuhe
+* Uhkaava käytös ja [vihapuhe]
 * Poliittinen yllytys eli agitaatio
 * Roskapostittaminen ja mainonta
 
@@ -41,3 +41,4 @@ Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ,
 [Telegram]: https://t.me/joinchat/WnDCZpW80L4yNjU8
 [WhatsApp]: https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7
 [Hacklab ry]: https://hacklab.fi/
+[vihapuhe]: https://blogi.poliisi.fi/vihapuhe-viharikokset-ja-rikokseen-kehottaminen/
