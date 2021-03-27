@@ -7,9 +7,9 @@ Tervetuloa keskustelemaan radioamatööriharrastuksesta! Tarkoituksemme on luoda
 
 Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seuraavista viestimistä:
 
-* [Matrix](https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org) - Suositeltu tapa liittyä
-* [Telegram](https://t.me/joinchat/WnDCZpW80L4yNjU8)
-* [WhatsApp](https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7)
+* [Matrix] - Suositeltu tapa liittyä
+* [Telegram]
+* [WhatsApp]
 * IRCNet: #hamit.fi
 
 Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [hacklab.fi](https://hacklab.fi/)
@@ -24,6 +24,17 @@ Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. 
 * Poliittinen yllytys eli agitaatio
 * Roskapostittaminen ja mainonta
 
+## Vinkkejä
+
+[Matrix] kanavalla voit vaihtaa nimesi callsigniksi komennolla `/myroomnick OHXABC`
+
 ## Moderointi
 
 Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa.
+
+
+
+
+[Matrix]: https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org
+[Telegram]: https://t.me/joinchat/WnDCZpW80L4yNjU8
+[WhatsApp]: https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7
