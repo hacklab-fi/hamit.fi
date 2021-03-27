@@ -12,7 +12,7 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 * [WhatsApp]
 * IRCNet: #hamit.fi
 
-Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [Hacklab ry](https://hacklab.fi/).
+Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [Hacklab ry].
 
 Kanava ei ole sidottu mihinkään tiettyyn kerhoon tai paikkakuntaan, vaan on tarkoitettu kaikkeen suomenkieliseen keskusteluun radioamatööritoiminnasta. Monilla radioamatöörikerhoilla on myös omat kanavansa, joita voit löytää [linkkilistauksesta](linkkeja).
 
@@ -38,3 +38,4 @@ Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ,
 [Matrix]: https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org
 [Telegram]: https://t.me/joinchat/WnDCZpW80L4yNjU8
 [WhatsApp]: https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7
+[Hacklab ry]: https://hacklab.fi/
