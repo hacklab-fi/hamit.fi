@@ -32,7 +32,7 @@ IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin l
 
 ## Moderointi
 
-Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa.
+Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella, kun aihetta on.
 
 
 
