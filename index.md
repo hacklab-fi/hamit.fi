@@ -41,4 +41,4 @@ Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ,
 [Telegram]: https://t.me/joinchat/WnDCZpW80L4yNjU8
 [WhatsApp]: https://chat.whatsapp.com/Hkv4CW905HNGbJBdbVbfY7
 [Hacklab ry]: https://hacklab.fi/
-[vihapuhe]: https://blogi.poliisi.fi/vihapuhe-viharikokset-ja-rikokseen-kehottaminen/
+[vihapuhe]: https://fi.wikipedia.org/wiki/Vihapuhe
