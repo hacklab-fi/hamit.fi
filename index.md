@@ -28,6 +28,8 @@ Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. 
 
 [Matrix]ia käyttäessäsi voit vaihtaa kanavalla näkyvän nimimerkkisi kutsumerkkiäsi vastaavaksi komennolla `/myroomnick OHXABC`
 
+IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin loppuosasta: `^w` Whatsapp-käyttäjillä, `^t` Telegram-käyttäjillä. Heille ei voi lähettää yksityisviestejä, mutta nimimerkin mainitseminen luo heille notifikaation kuten irkissäkin. Matrix- ja IRC-käyttäjien välillä myös yksityisviestit toimivat saumattomasti.
+
 ## Moderointi
 
 Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa.
