@@ -28,13 +28,13 @@ Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. 
 
 [Matrix]ia käyttäessäsi voit vaihtaa kanavalla näkyvän nimimerkkisi kutsumerkkiäsi vastaavaksi komennolla `/myroomnick OHXABC`
 
-IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin loppuosasta: `^w` Whatsapp-käyttäjillä, `^t` Telegram-käyttäjillä. Heille ei voi lähettää yksityisviestejä, mutta nimimerkin mainitseminen luo heille notifikaation kuten irkissäkin. Matrix- ja IRC-käyttäjien välillä myös yksityisviestit toimivat saumattomasti.
+IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin loppuosasta: `^w` Whatsapp-käyttäjillä, `^t` Telegram-käyttäjillä. Heille ei voi lähettää yksityisviestejä, mutta nimimerkin mainitseminen luo heille notifikaation kuten irkissäkin. Matrix- ja IRC-käyttäjien välillä myös yksityisviestit toimivat saumattomasti. Huom! Nimimerkkien loppuosat päivittyvät tällä hetkellä vain kerran päivässä IRC:n puolelle, eli ei kannata panikoida jos heti liittymisen jälkeen suffiksi puuttuu.
+
+Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin se näkyy muiden verkkojen käyttäjille kivasti. Username on eri asia kuin oma nimesi. Se löytyy asetuksista kohdasta Settings → Edit Profile → Username.
 
 ## Moderointi
 
 Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella yleisellä tasolla, kun aihetta on.
-
-
 
 
 [Matrix]: https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org
