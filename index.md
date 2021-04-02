@@ -34,7 +34,7 @@ Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin
 
 ## Moderointi
 
-Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella yleisellä tasolla, kun aihetta on.
+Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K ja BFlorry. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella yleisellä tasolla, kun aihetta on.
 
 
 [Matrix]: https://matrix.to/#/#hamit:hacklab.fi?via=hacklab.fi&via=matrix.org
