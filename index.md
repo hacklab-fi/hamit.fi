@@ -36,7 +36,7 @@ Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin
 
 Kanavalle tulee automaattisesti seuraavat ilmoitukset:
 
-* [SRAL]:n nettisivujen uutiset ([datalähde](https://www.sral.fi/feed/))
+* [SRAL:n](https://www.sral.fi/) nettisivujen uutiset ([datalähde](https://www.sral.fi/feed/))
 * Tämän sivun blogi ([datalähde](https://hamit.fi/feed.xml))
 * Uudet ja poistuneet [radioamatöörikutsut] Suomessa ([datalähde](https://github.com/OH6AD/koolitutka))
 * Aktivoinnit [OHFF]-luontokohteissa ([datalähde](https://github.com/zouppen/wwff-db/))
@@ -52,5 +52,4 @@ Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ,
 [Hacklab ry]: https://hacklab.fi/
 [vihapuhe]: https://fi.wikipedia.org/wiki/Vihapuhe
 [OHFF]: https://ohff44.wordpress.com/
-[SRAL]: https://www.sral.fi/
 [radioamatöörikutsut]: https://www.traficom.fi/fi/kaytossa-olevat-radioamatoorien-kutsumerkit
