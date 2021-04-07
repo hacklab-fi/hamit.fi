@@ -32,6 +32,15 @@ IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin l
 
 Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin se näkyy muiden verkkojen käyttäjille kivasti. Username on eri asia kuin oma nimesi. Se löytyy asetuksista kohdasta Settings → Edit Profile → Username.
 
+## Ilmoitukset
+
+Kanavalle tulee automaattisesti seuraavat ilmoitukset:
+
+* SRAL:n nettisivujen uutiset ([datalähde](https://www.sral.fi/feed/))
+* Tämän sivun blogi ([datalähde](https://hamit.fi/feed.xml))
+* Uudet ja poistuneet radioamatöörikutsut Suomessa ([datalähde](https://github.com/OH6AD/koolitutka))
+* Aktivoinnit OHFF-luontokohteissa ([datalähde](https://github.com/zouppen/wwff-db/))
+
 ## Moderointi
 
 Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K ja BFlorry. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella yleisellä tasolla, kun aihetta on.
