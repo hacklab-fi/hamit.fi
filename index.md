@@ -43,6 +43,8 @@ Kanavalle tulee automaattisesti seuraavat ilmoitukset:
 * Uudet ja poistuneet [radioamatöörikutsut] Suomessa ([datalähde](https://github.com/OH6AD/koolitutka))
 * Aktivoinnit [OHFF]-luontokohteissa ([datalähde](https://github.com/zouppen/wwff-db/))
 
+(Tiedämme, että SRAL:n sivuilta tulevissa blogipostauksissa on ääkkösvirhe. Korjaamme h&auml;iri&ouml;n mahdollisimman pian. ;-)
+
 ## Moderointi
 
 Ryhmäkeskustelua moderoidaan tarvittaessa. Moderaattoreina toimivat cos OH3GBQ, tsw, Zouppen OH64K ja BFlorry. Yksittäisistä moderointipäätöksistä ei voi valittaa. Moderointilinjasta saa tietysti keskustella yleisellä tasolla, kun aihetta on.
