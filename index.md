@@ -43,7 +43,7 @@ Kanavalle tulee automaattisesti seuraavat ilmoitukset:
 * Uudet ja poistuneet [radioamatöörikutsut] Suomessa ([datalähde](https://github.com/OH6AD/koolitutka))
 * Aktivoinnit [OHFF]-luontokohteissa ([datalähde](https://github.com/zouppen/wwff-db/))
 
-(Tiedämme, että SRAL:n sivuilta tulevissa blogipostauksissa on ääkkösvirhe. Korjaamme h&auml;iri&ouml;n mahdollisimman pian. ;-)
+(Tiedämme, että SRAL:n sivuilta tulevissa blogipostauksissa on ääkkösvirhe. Korjaamme h&amp;auml;iri&amp;ouml;n mahdollisimman pian. ;-)
 
 ## Moderointi
 
