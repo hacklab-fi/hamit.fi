@@ -9,8 +9,10 @@ Kanava ei ole sidottu mihinkään tiettyyn viestimeen, vaan sinne pääsee seura
 
 * [Matrix] - Suositeltu tapa liittyä
 * [Telegram]
-* [WhatsApp]
+* [WhatsApp] – Katso huomautus!
 * IRCNet: #hamit.fi
+
+Huomautus WhatsApp-käyttäjille: Puhelinnumerosi näkyy WhatsAppin lisäksi IRC- ja Matrix-verkoissa käyttäjän lisätiedoissa (IRC: realname, Matrix: MXID). Tämä johtuu siitä, että WhatsAppissa käyttäjätunnus on sidottu käyttäjän puhelinnumeroon. **Mikäli haluat pitää puhelinnumerosi salaisena, älä käytä WhatsAppia.**
 
 Muita viestimiä pystymme siltaamaan tarpeen mukaan. Siltaustekniikan tarjoaa Suomen hacklabien kattojärjestö [Hacklab ry].
 
