@@ -34,6 +34,15 @@ IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin l
 
 Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin se näkyy muiden verkkojen käyttäjille kivasti. Username on eri asia kuin oma nimesi. Se löytyy asetuksista kohdasta Settings → Edit Profile → Username.
 
+### Ryhmän vaimentaminen
+
+Nouseeko verenpaine suuresta määrästä viestejä? Ei hätää! Kanava kannattaa vaimentaa, jolloin saat huomautuksen vain niistä viesteistä, joissa mainitaan nimesi tai nimimerkkisi. Alla ohje Matrixin Element-sovellukselle ja lisäksi ohjeet englanniksi eri pikaviestimille:
+
+![Ohjeet Matrixille](assets/img/element_mute.png)
+
+* [Telegram](https://gadgetstouse.com/blog/2021/02/11/mute-chats-groups-channels-on-telegram/)
+* [WhatsApp](https://faq.whatsapp.com/iphone/chats/how-to-mute-or-unmute-group-notifications/?lang=en)
+
 ## Ilmoitukset
 
 Kanavalle tulee automaattisesti seuraavat ilmoitukset:
