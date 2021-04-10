@@ -36,12 +36,15 @@ Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin
 
 ### Ryhmän vaimentaminen
 
-Nouseeko verenpaine suuresta määrästä viestejä? Ei hätää! Kanava kannattaa vaimentaa, jolloin saat huomautuksen vain niistä viesteistä, joissa mainitaan nimesi tai nimimerkkisi. Alla ohje Matrixin Element-sovellukselle ja lisäksi ohjeet englanniksi eri pikaviestimille:
+Nouseeko verenpaine suuresta määrästä viestejä? Ei hätää! Kanava kannattaa vaimentaa, jolloin saat huomautuksen vain niistä viesteistä, joissa mainitaan nimesi tai nimimerkkisi.
 
 ![Ohjeet Matrixille](assets/img/element_mute.png)
+*Matrix työpöydällä*
 
-* [Telegram](https://gadgetstouse.com/blog/2021/02/11/mute-chats-groups-channels-on-telegram/)
-* [WhatsApp](https://faq.whatsapp.com/iphone/chats/how-to-mute-or-unmute-group-notifications/?lang=en)
+![Ohjeet Matrixille kännykässä](assets/img/element_mobile_mute.png)
+*Matrix kännykässä*
+
+Katso myös ohjeet englanniksi [Telegrammille](https://gadgetstouse.com/blog/2021/02/11/mute-chats-groups-channels-on-telegram/) ja [WhatsAppille](https://faq.whatsapp.com/iphone/chats/how-to-mute-or-unmute-group-notifications/?lang=en)
 
 ## Ilmoitukset
 
