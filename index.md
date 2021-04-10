@@ -44,7 +44,7 @@ Nouseeko verenpaine suuresta määrästä viestejä? Ei hätää! Kanava kannatt
 ![Ohjeet Matrixille kännykässä](assets/img/element_mobile_mute.png)
 *Matrix kännykässä*
 
-Katso myös ohjeet englanniksi [Telegrammille](https://gadgetstouse.com/blog/2021/02/11/mute-chats-groups-channels-on-telegram/) ja [WhatsAppille](https://faq.whatsapp.com/iphone/chats/how-to-mute-or-unmute-group-notifications/?lang=en)
+Katso myös ohjeet englanniksi [Telegrammille](https://gadgetstouse.com/blog/2021/02/11/mute-chats-groups-channels-on-telegram/) ja [WhatsAppille](https://faq.whatsapp.com/iphone/chats/how-to-mute-or-unmute-group-notifications/?lang=en).
 
 ## Ilmoitukset
 
