@@ -49,10 +49,10 @@ Viime keväänä Hacklab-yhteisö tarjosi
 [Assembly-tietokonetapahtumalle](https://assembly.org/) käyttöön uuden
 IRC-siltausratkaisun,
 [Heisenbridgen](https://github.com/hifi/heisenbridge), joka käyttää
-perinteisempää relabot-tyyppistä siltausta jossa IRC:n suuntaan on
-yksi nimimerkki mutta aiemmista silloista poiketen Matrixin suuntaan
-puppetoiva ratkaisu, eli Matrixin suunnalla jokainen IRC-käyttäjä
-näkyy omana nimimerkkinään.
+perinteisempää relaybot-tyyppistä siltausta, jossa IRC:n suuntaan on
+yksi nimimerkki mutta aiemmista relaybot-silloista poiketen Matrixin
+suuntaan puppetoiva ratkaisu, eli Matrixin suunnalla jokainen
+IRC-käyttäjä näkyy omana nimimerkkinään.
 
 Assembly-yhteisössä parannus oli huomatava aiempiin erillisiin
 siltausjärjestelmiin verrattuna ja kokemuksesta rohkaistuneena
