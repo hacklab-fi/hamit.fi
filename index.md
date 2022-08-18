@@ -30,7 +30,12 @@ Ryhmäkeskustelu on tarkoitettu harrastukseen liittyvien asioiden käsittelyyn. 
 
 [Matrix]ia käyttäessäsi voit vaihtaa kanavalla näkyvän nimimerkkisi kutsumerkkiäsi vastaavaksi komennolla `/myroomnick OHXABC`
 
-IRC:ssä tunnistat ulkoisista pikaviestimistä tulevat käyttäjät nimimerkin loppuosasta: `^w` Whatsapp-käyttäjillä, `^t` Telegram-käyttäjillä. Heille ei voi lähettää yksityisviestejä, mutta nimimerkin mainitseminen luo heille notifikaation kuten irkissäkin. Matrix- ja IRC-käyttäjien välillä myös yksityisviestit toimivat saumattomasti. Huom! Nimimerkkien loppuosat päivittyvät tällä hetkellä vain kerran päivässä IRC:n puolelle, eli ei kannata panikoida jos heti liittymisen jälkeen suffiksi puuttuu.
+IRC:ssä oleva siltabotti `mx` välittää viestit muista
+pikaviestinverkoista. Voit saada IRC-keskustelusta luettavamman, kun
+käytät työkalua, joka poistaa `<mx>`-nimimerkin rivin alusta:
+
+* Irssi: [Detelexify-skripti](https://github.com/zouppen/irssi-detelexify/)
+* WeeChat: [Relaybot](https://github.com/weechat/weechat/wiki/Triggers#relaybot)
 
 Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin se näkyy muiden verkkojen käyttäjille kivasti. Username on eri asia kuin oma nimesi. Se löytyy asetuksista kohdasta Settings → Edit Profile → Username.
 
