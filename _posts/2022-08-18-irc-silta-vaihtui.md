@@ -59,10 +59,10 @@ siltausjärjestelmiin verrattuna ja kokemuksesta rohkaistuneena
 päätimme, että otamme sillan käyttöön laajemminkin jossakin vaiheessa
 tänä vuonna.
 
-Aikataulu nopeutui kun viimeinen kamelin selän katkaissut seikka oli
+Aikataulu kuitenkin nopeutui, kun kamelin selän katkaisi
 se, että IRC-silta alkoi siivota yli 90 päivää idlanneita käyttäjiä
 pois ja Telegram-sillan kautta potkut propagoituivat Telegrammiin
-asti, poistaen parisenkymmentä Telegram-käyttäjiä
+asti, poistaen parisenkymmentä Telegram-käyttäjää
 Hamit.fi-ryhmästä. Se oli vielä pientä verrattuna
 [Instanssi](https://instanssi.org/)-tapahtuman yhteisöön. Monet
 käyttäjistä siellä olivat seuranneet tiedotusta, mutta eivät
