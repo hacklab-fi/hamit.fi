@@ -41,9 +41,9 @@ olleet kovan kuormituksen alla. IRC-käyttäjämäärän laskiessa ja
 Matrixin käyttäjämäärän kasvaessa kymmeniin miljooniin on merkittävä
 osuus IRC-liikenteestä kulkenut tämän yhden pisteen kautta. Lisäksi
 kyseinen JavaScriptillä toteutettu silta,
-[matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc)
+[matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc),
 on todettu hankalasti ylläpidettäväksi ja vikaherkäksi ja siinä on
-ollut pahimmillaan useamman päivän huoltokatkoja.
+ollut pahimmillaan useamman päivän mittaisia huoltokatkoja.
 
 Viime keväänä Hacklab-yhteisö tarjosi
 [Assembly-tietokonetapahtumalle](https://assembly.org/) käyttöön uuden
