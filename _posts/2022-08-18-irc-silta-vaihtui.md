@@ -26,7 +26,7 @@ joukosta.
 
 ## Miksi muutos tehtiin?
 
-Käyttämämme [Twenten
+Tähän saakka käyttämämme [Twenten
 yliopiston](https://www.snt.utwente.nl/en/service/matrix) silta on
 ns. puppetoiva, eli jokaista käyttäjää vastaa oma IRC-nimimerkkinsä
 kanavalla. Tämä helpottaa kommunikaatiota ja tämän lisäksi käytössä on
