@@ -87,6 +87,6 @@ irkkikanavalle, kun viestit tulevat yhdeltä käyttäjältä. Tähän on
 olemassa kuitenkin keinoja, joilla viestit saa näyttämään selkeämmiltä:
 
 * Irssi: [Detelexify-skripti](https://github.com/zouppen/irssi-detelexify/)
-* WeeChat: [Relaybot](https://github.com/weechat/weechat/wiki/Triggers#relaybot)
+* WeeChat: [Relaybot-liipaisin](https://github.com/weechat/weechat/wiki/Triggers#relaybot)
 
 *Joel Lehtonen / OH64K / Zouppen*

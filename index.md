@@ -35,7 +35,7 @@ pikaviestinverkoista. Voit saada IRC-keskustelusta luettavamman, kun
 käytät työkalua, joka poistaa `<mx>`-nimimerkin rivin alusta:
 
 * Irssi: [Detelexify-skripti](https://github.com/zouppen/irssi-detelexify/)
-* WeeChat: [Relaybot](https://github.com/weechat/weechat/wiki/Triggers#relaybot)
+* WeeChat: [Relaybot-liipaisin](https://github.com/weechat/weechat/wiki/Triggers#relaybot)
 
 Telegrammissa oman radioamatöörikutsunsa voi asettaa username-kohtaan, jolloin se näkyy muiden verkkojen käyttäjille kivasti. Username on eri asia kuin oma nimesi. Se löytyy asetuksista kohdasta Settings → Edit Profile → Username.
 
