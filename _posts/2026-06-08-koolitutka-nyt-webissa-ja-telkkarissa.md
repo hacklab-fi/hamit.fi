@@ -17,12 +17,13 @@ jämäkkää mediaa niin menneisyydestä kuin tulevaisuudestakin. Nimittäin
 [Teksti-TV:n](https://fi.wikipedia.org/wiki/Teksti-TV) ja Webin.
 
 Kummankin eteen on tehty jämäkkää tuotekehitystä nykymaailman keinoin
-keinoälyä kaihtamatta. Lopputuloksena on käyttöliittymä, joka
-kunnioittaa yksityisyyttäsi, eli paluukanavaa ei ole. Teksti-TV
-luonnollisesti on yksisuuntainen, mutta myös toteutettu webbipalvelu
-on sellainen, että se lataa tietokannan käyttäjän selaimeen
-kokonaisuudessaan ja käyttäjän tekemiä kyselyitä ei lähetetä lainkaan
-verkkoon vaan data luetaan selaimen muistissa olevasta
+keinoälyä kaihtamatta. Lopputuloksena on käyttöliittymä, joka on
+suorastaan ihanan minimalistinen ja lisäksi myös kunnioittaa
+yksityisyyttäsi, koska paluukanavaa ei ole. Teksti-TV luonnollisesti
+on yksisuuntainen, mutta myös toteutettu webbipalvelu on sellainen,
+että se lataa tietokannan käyttäjän selaimeen kokonaisuudessaan ja
+käyttäjän tekemiä kyselyitä ei lähetetä lainkaan verkkoon vaan data
+luetaan selaimen muistissa olevasta
 [SQLite](https://fi.wikipedia.org/wiki/SQLite)-tietokannasta.
 
 Syytä tälle ei oikeastaan ole muuta kuin sen näyttäminen, että
