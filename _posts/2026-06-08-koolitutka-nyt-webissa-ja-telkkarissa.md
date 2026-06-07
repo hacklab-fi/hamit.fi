@@ -7,12 +7,12 @@ tags: [koolitutka, tekstitv]
 ---
 
 Koolitutka on ollut chattibotti, joka on palvellut aluksi OH6AD:n
-irkkikanavalla vuodesta 2016 ja vuodesta 2020 myös monialustaisen
-Hamit.fi-keskusteluhuonessa. Siellä se on väsymättä kymmenen vuoden
+irkkikanavalla vuodesta 2016 ja vuodesta 2020 myös meidän monialustaisessa
+Hamit.fi-keskusteluhuonessa. Se on väsymättä kymmenen vuoden
 ajan seurannut muutoksia Traficomin julkaisemassa voimassaolevien
 radioamatöörikutsujen listassa.
 
-Botti ei ole menossa mihinkään, mutta on saanut rinnalleen kaksi
+Bottimme ei ole menossa mihinkään, mutta on saanut rinnalleen kaksi
 jämäkkää mediaa niin menneisyydestä kuin tulevaisuudestakin. Nimittäin
 [Teksti-TV:n](https://fi.wikipedia.org/wiki/Teksti-TV) ja Webin.
 
