@@ -17,7 +17,7 @@ jämäkkää mediaa niin menneisyydestä kuin tulevaisuudestakin. Nimittäin
 [Teksti-TV:n](https://fi.wikipedia.org/wiki/Teksti-TV) ja Webin.
 
 Kummankin eteen on tehty jämäkkää tuotekehitystä nykymaailman keinoin
-tekoälyä kaihtamatta. Lopputuloksena on käyttöliittymä, joka
+keinoälyä kaihtamatta. Lopputuloksena on käyttöliittymä, joka
 kunnioittaa yksityisyyttäsi, eli paluukanavaa ei ole. Teksti-TV
 luonnollisesti on yksisuuntainen, mutta myös toteutettu webbipalvelu
 on sellainen, että se lataa tietokannan käyttäjän selaimeen
@@ -29,7 +29,7 @@ Syytä tälle ei oikeastaan ole muuta kuin sen näyttäminen, että
 tällaistakin sekoilua voi yhä harrastaa. Ja hauskaa onkin ollut. Lähtien
 siitä, että Teksti-TV-sivujen lähettämistä varten on täytynyt
 [takaisinmallintaa](https://fi.wikipedia.org/wiki/Takaisinmallinnus)
-Ylen Teksti-TV-Editorin protokolla ja rakentaa sen pohjalta moderni
+Ylen Teksti-TV-Editorin käyttämä protokolla ja rakentaa sen pohjalta moderni
 komentorivityökalu
 [ylettv-cli](https://github.com/zouppen/ylettv-cli).
 
@@ -38,10 +38,10 @@ Teksti-TV:stä Koolitutka löytyy sivun Suomen Radioamatööriliiton sivun
 
 ![Teksti-TV-sivu](/assets/img/ttv.png "Ylen Teksti-TV:n sivu 590-10")
 
-Ja tuoreimman näkymän saa auki tietysti lähimmästä telkkarista tai
+Ja tuoreimman tilanteen saa auki tietysti lähimmästä telkkarista tai
 [Teksti-TV:n verkkoversiosta](https://yle.fi/aihe/tekstitv?P=590#10).
 
-Webbisovellus on puolestaan saatavilla osoitteesta
+Webbisovellus löytyy puolestaan osoitteesta
 [koolit.hamit.fi](https://koolit.hamit.fi/) ja se näytti julkaisuhetkellä tältä:
 
 ![Koolitutka-ruutukaappaus](/assets/img/koolitutka-ruutu.png "Koolitutkan käyttöliittymä")
