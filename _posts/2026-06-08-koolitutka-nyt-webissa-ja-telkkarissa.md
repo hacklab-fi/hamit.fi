@@ -36,13 +36,15 @@ komentorivityökalu
 Teksti-TV:stä Koolitutka löytyy sivun Suomen Radioamatööriliiton sivun
 590 alasivulta 10, joka tämän jutun julkaisuhetkellä näytti tältä:
 
-![Teksti-TV-sivu](/ttv.png "Ylen Teksti-TV:n sivu 590-10")
+![Teksti-TV-sivu](/assets/img/ttv.png "Ylen Teksti-TV:n sivu 590-10")
 
 Ja tuoreimman näkymän saa auki tietysti lähimmästä telkkarista tai
 [Teksti-TV:n verkkoversiosta](https://yle.fi/aihe/tekstitv?P=590#10).
 
 Webbisovellus on puolestaan saatavilla osoitteesta
-[koolit.hamit.fi](https://koolit.hamit.fi/).
+[koolit.hamit.fi](https://koolit.hamit.fi/) ja se näytti julkaisuhetkellä tältä:
+
+![Koolitutka-ruutukaappaus](/assets/img/koolitutka-ruutu.png "Koolitutkan käyttöliittymä")
 
 Lähdekoodiin voi tutustua [GitHubissa](https://github.com/OH6AD/koolitutka).
 
